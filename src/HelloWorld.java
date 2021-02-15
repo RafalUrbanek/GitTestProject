@@ -4,6 +4,11 @@ public class HelloWorld {
     }
 
     private static String messageOfTheDay() {
-        return "Hello World";
+        String first = "Hello";
+        String second = " world";
+
+        return first + second;
     }
+
+    // Comment to tag the 2-nd branch
 }
