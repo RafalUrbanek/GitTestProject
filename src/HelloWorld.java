@@ -3,9 +3,9 @@ public class HelloWorld {
         System.out.println(messageOfTheDay());
     }
 
-    private static String messageOfTheDay() {
-        return "Hello World from 1-st branch";
-    }
+    // DEVELOPMENT BRANCH
 
-    // Comment to flag changes in the project
+    private static String messageOfTheDay() {
+        return "Hello World";
+    }
 }
