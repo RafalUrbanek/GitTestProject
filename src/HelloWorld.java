@@ -3,7 +3,7 @@ public class HelloWorld {
         System.out.println(messageOfTheDay());
     }
 
-    // DEVELOPMENT branched into 3-rd branch
+    // DEVELOPMENT branch
 
-    private static String messageOfTheDay() { return "Hello" + " World"; }
+    private static String messageOfTheDay() { return "Hello World"; }
 }
